@@ -1,0 +1,15 @@
+[theme]
+# The main accent color (SKF-style Corporate Blue)
+primaryColor = "#004b87"
+
+# The main background color (A very soft, icy blue/grey so it isn't blinding white)
+backgroundColor = "#f4f8fc"
+
+# The background color for the sidebar and data tables (Crisp White)
+secondaryBackgroundColor = "#ffffff"
+
+# The text color (Dark charcoal for better readability than pure black)
+textColor = "#1a1a1a"
+
+# A clean, modern font
+font = "sans serif"

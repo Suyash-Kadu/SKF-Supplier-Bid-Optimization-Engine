@@ -18,7 +18,7 @@ st.markdown("Evaluate raw material suppliers based on Total Cost of Ownership (T
 
 
 # Initialize tabs
-tab1, tab2, tab3 = st.tabs(["Home", "Dashboard", "About"])
+tab1, tab2, tab3 = st.tabs(["1. Home", "2. Dashboard", "3. About"])
 
 # ==========================================
 # 2. THE CORE ENGINE (From Phase 1)
